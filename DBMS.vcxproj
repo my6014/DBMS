@@ -134,7 +134,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DBMS.cpp" />
-    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="DBMS.rc" />
